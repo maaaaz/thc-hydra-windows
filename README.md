@@ -7,8 +7,9 @@ The THC-HYDRA tool compiled for Windows
 
 Features
 --------
-* Latest 8.0 version
+* Latest 8.1 version
 * Compiled for x86 so should work on x86 and x64 platforms
+* Compiled with SSH and MySQL optional modules
 * Embedded Cygwin DLLs 
 
 Usage
@@ -16,6 +17,10 @@ Usage
 1. Download the [whole archive](https://github.com/maaaaz/thc-hydra-windows/archive/master.zip)
 2. Extract it and run `hydra.exe`
 3. Profit
+
+Older versions
+--------------
+* [v8.0] (https://github.com/maaaaz/thc-hydra-windows/archive/v8.0.zip)
 
 Disclaimer & licence 
 ---------------------
