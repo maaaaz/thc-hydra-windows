@@ -18,6 +18,10 @@ Usage
 2. Extract it and run `hydra.exe`
 3. Profit
 
+Prerequisites
+-------------
+* [Microsoft Visual C++ 2008 Redistributable Package](https://www.microsoft.com/en-us/download/details.aspx?id=29)
+
 Older versions
 --------------
 * [v8.0] (https://github.com/maaaaz/thc-hydra-windows/archive/v8.0.zip) (2014-06-12)
