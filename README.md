@@ -7,7 +7,7 @@ The THC-HYDRA tool compiled for Windows
 
 Features
 --------
-* Latest `8.5` version (2017-05-03)
+* Latest `8.7_dev` version (2018-07-23)
 * Compiled for `x86` so should work on `x86` and `x64` platforms
 * Compiled with SSH and MySQL optional modules
 * Embedded Cygwin DLLs 
