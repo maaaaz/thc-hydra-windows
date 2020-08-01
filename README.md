@@ -35,4 +35,4 @@ Last but not least, antivirus softwares might report some binaries as hacktools 
 
 Credits
 -------
-* The Hackers Choice "THC" https://www.thc.org/thc-hydra/
+* The Hackers Choice "THC" https://github.com/vanhauser-thc/thc-hydra
