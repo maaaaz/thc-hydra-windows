@@ -20,7 +20,7 @@ Usage
 
 Prerequisites
 -------------
-* [Microsoft Visual C++ 2008 Redistributable Package](https://www.microsoft.com/en-us/download/details.aspx?id=29)
+* [Microsoft Visual C++ 2008 Redistributable Package](https://www.microsoft.com/en-us/download/details.aspx?id=26368) (more info [here](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist))
 
 Older versions
 --------------
